@@ -22,19 +22,22 @@ This project simulates a predictive maintenance system using:
 ## Dashboard Samples
 
 ### Sensor 2 Trend with Anomalies (Engine 3)
-![Sensor Trend](outputs/sensor_trend_anomalies.png)
+![Sensor Trend](<img width="2400" height="800" alt="sensor_trend_anomalies" src="https://github.com/user-attachments/assets/a5414b7f-0a2f-4416-a0a6-bc790b170ada" />
+)
 
 ### Anomaly Count per Engine
-![Anomaly Bar Chart](outputs/anomaly_counts_per_engine.png)
+![Anomaly Bar Chart](<img width="2000" height="1200" alt="anomaly_counts_per_engine" src="https://github.com/user-attachments/assets/1c67371a-9c34-4e33-b035-6d21724dc267" />
+)
 
 ### Sensor Correlation Heatmap
-![Heatmap](outputs/sensor_correlation_heatmap.png)
+![Heatmap](<img width="2400" height="2000" alt="sensor_correlation_heatmap" src="https://github.com/user-attachments/assets/fe510af3-7729-4eb7-b335-5278b6d4b7e5" />
+)
 
 ## How to Run
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/
+git clone https://github.com/privaelo/engine-sensor-anomaly-detection.git
 cd engine-sensor-anomaly-pipeline
 ```
 
