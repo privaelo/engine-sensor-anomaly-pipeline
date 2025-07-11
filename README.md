@@ -12,7 +12,7 @@ This project simulates a predictive maintenance system using:
 - Airflow DAGs for repeatable ML workflows
 - Jupyter-based visual dashboards
 
-## Tech Stack
+## Requirements
 
 - Python, Pandas, NumPy, Scikit-learn
 - Airflow (via Docker)
