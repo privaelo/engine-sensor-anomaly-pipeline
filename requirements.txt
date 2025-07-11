@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+apache-airflow==2.8.1
+joblib
+# For Airflow, you may need to install additional providers depending on your setup
+# For example, if you're using PostgreSQL:
+# apache-airflow-providers-postgres
+# If you're using MySQL:
+# apache-airflow-providers-mysql
+datetime
