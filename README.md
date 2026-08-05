@@ -47,7 +47,7 @@ docker-compose up airflow-init
 docker-compose up
 ```
 
-3. Add your DAG to `dags/` and run it via the Airflow UI.
+3. Add your DAG to `dags/` and run it via the Airflow UI. 
 
 ## Future Enhancements
 
@@ -56,7 +56,7 @@ docker-compose up
 - Retraining DAG
 - Streamlit dashboard
 
-## Folder Structure
+<!-- ## Folder Structure
 
 ```
 engine-sensor-anomaly-pipeline/
@@ -78,4 +78,4 @@ engine-sensor-anomaly-pipeline/
 │   └── sensor_correlation_heatmap.png
 ├── notebooks/
 │   └── anomaly_dashboard.ipynb
-```
+```-->
